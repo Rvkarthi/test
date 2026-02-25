@@ -1,6 +1,9 @@
 def addnum(a, b):
     return a+b
 
+def sub(a,b):
+    return a-b
+
 n = int(input("enter 1.addition 2.subraction : "))
 
 if(n==1):
